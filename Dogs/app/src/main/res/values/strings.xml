@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dogs</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="det_frag">Detail Fragment</string>
+    <string name="list_frag">List Fragment</string>
+    <string name="action">Action</string>
+    <string name="an_error_occurred_while_loading_data">An error occurred while loading data</string>
+    <string name="dog_name">DogName</string>
+    <string name="dog_image">DogImage</string>
+    <string name="lifespan">Lifespan</string>
+    <string name="dog_purpose">Dog purpose</string>
+    <string name="dog_temperament">Dog temperament</string>
+    <string name="dog_lifespan">Dog lifespan</string>
+</resources>
